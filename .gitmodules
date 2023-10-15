@@ -1,0 +1,3 @@
+[submodule "flixxit-ui"]
+	path = flixxit-ui
+	url = https://github.com/shambhavi228/Flixxit.git
